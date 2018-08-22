@@ -52,7 +52,7 @@
 
     <!-- Create External -->
     <string name="dialog_create_external_title">创建仓库</string>
-    <string name="dialog_create_external_msg">你想在该目录中创建一个Git仓库？</string>
+    <string name="dialog_create_external_msg">您想在该目录中创建一个 Git 仓库吗？</string>
     <string name="dialog_create_external_positive_label">创建</string>
 
     <!-- Fetch Remote -->

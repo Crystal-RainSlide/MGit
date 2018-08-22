@@ -40,7 +40,7 @@
     <string name="alert_you_must_choose_one_commit_to_copy">请选择一个提交来复制</string>
     <string name="alert_you_should_input_something">请先输入</string>
     <string name="alert_please_add_a_remote">请先添加一个远程仓库</string>
-    <string name="alert_is_already_a_git_repo">这个目录下已经有一个Git仓库</string>
+    <string name="alert_is_already_a_git_repo">此目录下已经有一个 Git 仓库</string>
     <string name="alert_save_failed">保存失败</string>
     <string name="alert_file_creation_failure">无法创建文件</string>
     <string name="error_no_repository">未找到仓库</string>
